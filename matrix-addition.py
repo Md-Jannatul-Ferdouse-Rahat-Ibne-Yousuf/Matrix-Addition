@@ -2,7 +2,7 @@ def input_matrix():
     pass
 
 def matrix_addition():
-    pass
+    print("This is Adding function")
 
 def main():
     pass
