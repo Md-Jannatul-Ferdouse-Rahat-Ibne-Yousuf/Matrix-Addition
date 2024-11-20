@@ -1,5 +1,5 @@
 import numpy as np
-
+#Added
 def input_matrix():
     rows = int(input("Enter the number of rows: "))
     cols = int(input("Enter the number of columns: "))
