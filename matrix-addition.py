@@ -1,5 +1,5 @@
 def input_matrix():
-    pass
+    print("This is input matrix function")
 
 def matrix_addition():
     print("This is Adding function")
