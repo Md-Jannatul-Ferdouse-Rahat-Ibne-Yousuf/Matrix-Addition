@@ -1,4 +1,6 @@
 import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 
 # Function 1: Input a matrix as a numpy array
 def input_matrix():
